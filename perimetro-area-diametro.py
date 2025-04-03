@@ -8,11 +8,11 @@ area = float(pi*(raio**2))
 
 diametro = float(2*raio)
 
-print(f"O perimetro do circulo é: {perimetro:.2f} cm")
+print(f"O perímetro do círculo é: {perimetro:.2f} cm")
 
-print(f"A area do circulo é: {area:.2f} cm")
+print(f"A área do círculo é: {area:.2f} cm")
 
-print(f"O diametro do circulo é: {diametro:.2f} cm")
+print(f"O diâmetro do círculo é: {diametro:.2f} cm")
 
 
 
