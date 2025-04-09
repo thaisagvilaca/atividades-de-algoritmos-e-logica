@@ -1,0 +1,15 @@
+nota1 = float(input('Digite a primeira nota: '))
+nota2 = float(input('Digite a segunda nota: '))
+nota3 = float(input('Digite a terceira nota: '))
+
+media = (nota1 + nota2 + nota3) / 3
+
+if media < 0 or media > 10:
+    print('Digite apenas valores de 0 a 10')
+elif media >= 6 and media <= 10:
+    print ('Aprovado!')
+else:
+    media < 6
+    print('Reprovado!')
+
+
